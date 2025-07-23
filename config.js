@@ -6,11 +6,26 @@ module.exports = {
   author: 'Mason Huang',
   authorAlternative: '黃稚筌',
   introduction: [
-    'You can write one or several paragraphs to introduce yourself here. You can find this introduction in the `config.js` file in the template.',
-    'In this site, almost everything supports Markdown Syntax. For example, you can add hyperlinks in the introduction such as [fxhsb](https://github.com/Reapor-Yurnero) with\n```markdown\n[fxhsb](https://github.com/Reapor-Yurnero)\n```',
-    'Here we try to test whether reloading is enabled when site updated (23).',
+    'I\'m an undergraduate student at [National Tsing Hua University](https://www.nthu.edu.tw/) in Taiwan, pursuing a Bachelor of Business Administration with an interdisciplinary program in Computer Science and Quantitative Finance. I currently conduct research at [MISLAB](http://mislab.cs.nthu.edu.tw/) under the supervision of Prof. Min-Chun Hu.',
+    
+    '### Research Interests',
+    'My research focuses on **Human-Computer Interaction** and **Computer Vision**, with particular interests in:',
+    '- **Digital Arts & Interactive Systems**: Developing immersive creative tools and interactive visualization systems, including VR environments and real-time music visualization driven by human expression',
+    '- **2D Image Processing & 3D Human Pose Estimation**: Working on advanced computer vision techniques for human motion understanding and multimodal emotion recognition',
+
+    // '### Current Research',
+    // 'I\'m currently working on **"PerformaVis: Real-Time Affective Music Visualization Driven by Pianist\'s Bodily Expressions"** (under submission), which combines computer vision, human-computer interaction, and digital arts to create personalized musical performance visualizations.',
+
+    // 'Additionally, I\'m exploring a new project called **"Memorializing Emotions through Multimodal Optimization and Reconstructive Yielding"**, aimed at providing everyone with the opportunity to bid a proper farewell to those they\'ve lost through innovative HCI approaches.',
+
+    '### Industry Experience',
+    'Currently serving as a Software Engineer Intern at Innovedus Inc., where I develop and optimize AI models for Kneron NPU, including working on the company\'s core external application KNEO X.',
+
+    '### Updates',
+    '- One paper accepted by *TAICHI 2025* (*Jul. 17, 2025*)!'
+
   ],
-  avatar: 'static/avatar.png',
+  avatar: 'avatar.png',
   professions: [
     'Undergraduate Researcher',
   ],
