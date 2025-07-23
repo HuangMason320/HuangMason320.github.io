@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '',
   siteUrl: 'http://masonnn.me',
   title: 'Mason Huang',
-  description: 'Personal Website of Mason Huang',
+  description: 'Portfolio of Mason Huang',
   author: 'Mason Huang',
   authorAlternative: '黃稚筌',
   introduction: [
@@ -32,7 +32,7 @@ module.exports = {
   tocMaxDepth: 2,
   excerptMaxLength: 500,
   location: 'Taiwan',
-  email: 'masonhuang0320@gmail.com',
+  email: 'masonnnhuang@pm.me',
   postsForArchivePage: 3,
   disqusScript: process.env.DISQUS_SCRIPT
     || 'https://tc-imba.disqus.com/embed.js',
