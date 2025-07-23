@@ -25,15 +25,10 @@ authors:
   - name: "Min-Chun Hu"
 ---
 
-## Title 1
+> [Poster]()| [DL ACM](https://dl.acm.org/doi/abs/10.1145/3641234.3671078)
 
-### Preview
-
-[Preview](./preview.png)
-
-### Website
-
-[Dire Tide 2020](https://www.dota2.com/diretide/?l=english)
+## Brief Summary
+A framework designed to transform creative prompts into vivid and detailed 3D content within a Virtual Reality (VR) environment. Aiming to inspire creative ideation and to provide creators with 3D reference content for painting.
 
 ## Title 2
 

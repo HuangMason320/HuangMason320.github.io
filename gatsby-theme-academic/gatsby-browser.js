@@ -5,7 +5,9 @@ import {
 export const wrapPageElement = _wrapPageElement;
 
 export const onRouteUpdate = () => {
-  // Service worker registration is handled by gatsby-plugin-offline
+  window.navigator.serviceWorker.register('/sw.js').then((reg) => {
+    reg.update();
+  });
 };
 
 // trigger an immediate page refresh when an update is found
