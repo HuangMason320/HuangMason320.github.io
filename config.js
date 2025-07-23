@@ -1,6 +1,6 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'http://HuangMason320.github.io',
+  siteUrl: 'http://masonnn.me',
   title: 'Mason Huang',
   description: 'Personal Website of Mason Huang',
   author: 'Mason Huang',
@@ -37,13 +37,13 @@ module.exports = {
   disqusScript: process.env.DISQUS_SCRIPT
     || 'https://tc-imba.disqus.com/embed.js',
   pages: {
-    home: '/',
-    posts: 'posts',
-    contact: 'contact',
-    resume: 'resume',
-    tags: 'tags',
-    research: 'research',
-  },
+		home: '/',
+		posts: 'posts',
+		contact: 'contact',
+		resume: 'resume',
+		tags: 'tags',
+		research: 'research',
+	},
   social: [
     {
       url: '/resume.pdf',
@@ -51,10 +51,12 @@ module.exports = {
     }, {
       url: 'https://github.com/HuangMason320',
       icon: ['fab', 'github'],
-    }, {
-      url: 'https://twitter.com/',
-      icon: ['fab', 'twitter'],
-    }, {
+    }, 
+    // {
+    //   url: 'https://twitter.com/',
+    //   icon: ['fab', 'twitter'],
+    // }, 
+    {
       url: 'https://scholar.google.com/citations?user=oful4lkAAAAJ&',
       icon: ['fab', 'google-scholar'],
     },
@@ -99,7 +101,7 @@ module.exports = {
           date: 'Jul. 2024 - Present',
           title: 'Software Engineer Intern',
           location: 'Taiwan',
-          description: 'description',
+          description: '',
         },
       ],
     },
@@ -108,9 +110,9 @@ module.exports = {
       position: 'right',
       data: [
         {
-          title: 'Teaching Assistant of XXX',
-          date: 'Aug 2019',
-          location: 'Somewhere',
+          title: 'Teaching Assistant of Software Studio',
+          date: 'Jan. 2025 - Jun. 2025',
+          location: 'National Tsing Hua University',
           description: '',
         },
       ],
