@@ -10,7 +10,7 @@ module.exports = {
     'In this site, almost everything supports Markdown Syntax. For example, you can add hyperlinks in the introduction such as [fxhsb](https://github.com/Reapor-Yurnero) with\n```markdown\n[fxhsb](https://github.com/Reapor-Yurnero)\n```',
     'Here we try to test whether reloading is enabled when site updated (23).',
   ],
-  avatar: 'avatar.png',
+  avatar: 'static/avatar.png',
   professions: [
     'Undergraduate Researcher',
   ],

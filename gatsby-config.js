@@ -14,6 +14,7 @@ module.exports = {
 				icon: './static/favicon.png',
 			},
 		},
+		'gatsby-plugin-remove-serviceworker',
 	],
 	siteMetadata: config,
 	pathPrefix: config.pathPrefix,
