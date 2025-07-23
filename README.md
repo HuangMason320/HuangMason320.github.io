@@ -1,13 +1,3 @@
-# pbb.wtf
-
-<p>
-	<img src="./preview.png"/>
-</p>
-
-<p align="center"><b><i>
-	The Source Code of my Website.
-</i></b></p>
-
 ## Abstract
 
 The website is built with [gatsby-theme-academic](https://www.npmjs.com/package/gatsby-theme-academic) and [Vercel](https://vercel.com/).
