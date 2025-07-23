@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/gatsby-theme-academic',
+  pathPrefix: '',
   siteUrl: 'http://HuangMason320.github.io',
   title: 'Mason Huang',
   description: 'Personal Website of Mason Huang',
