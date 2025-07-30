@@ -22,8 +22,8 @@ module.exports = {
     'Currently serving as a Software Engineer Intern at Innovedus Inc., where I develop and optimize AI models for Kneron NPU, including working on the company\'s core external application KNEO X.',
 
     '### Updates',
-    '- One paper accepted by *TAICHI 2025* (*Jul. 17, 2025*)!'
-
+    '- One paper accepted by *[https://taichi2025.taiwanchi.org/#/]{TAICHI 2025}* (*Jul. 17, 2025*)!',
+    '- One paper accepted by *[https://s2024.siggraph.org/]{SIGGRAPH 2024}* (*Apr 25, 2024*)!',
   ],
   avatar: 'avatar.png',
   professions: [
@@ -52,10 +52,10 @@ module.exports = {
       url: 'https://github.com/HuangMason320',
       icon: ['fab', 'github'],
     }, 
-    // {
-    //   url: 'https://twitter.com/',
-    //   icon: ['fab', 'twitter'],
-    // }, 
+    {
+      url: 'https://www.linkedin.com/in/cchuang-mason/',
+      icon: ['fab', 'linkedin'],
+    }, 
     {
       url: 'https://scholar.google.com/citations?user=oful4lkAAAAJ&',
       icon: ['fab', 'google-scholar'],
@@ -77,7 +77,7 @@ module.exports = {
     {
       date: 'Sep. 2018 - Jun. 2021',
       icon: 'school',
-      title: 'Senior high school degree',
+      title: 'Senior High School Degree',
       location: 'Affiliated Senior High School of National Taiwan Normal University',
     }],
   interests: [
@@ -110,10 +110,10 @@ module.exports = {
       position: 'right',
       data: [
         {
-          title: 'Teaching Assistant of Software Studio',
+          title: 'Teaching Assistant',
           date: 'Jan. 2025 - Jun. 2025',
           location: 'National Tsing Hua University',
-          description: '',
+          description: '**11320CS241002 Software Studio**',
         },
       ],
     },
