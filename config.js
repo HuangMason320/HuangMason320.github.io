@@ -22,7 +22,8 @@ module.exports = {
     'Currently serving as a Software Engineer Intern at Innovedus Inc., where I develop and optimize AI models for Kneron NPU, including working on the company\'s core external application KNEO X.',
 
     '### Updates',
-    '- One paper accepted by [*TAICHI 2025*](https://taichi2025.taiwanchi.org/#/) (*Jul. 17, 2025*)!',
+    '- One paper accepted by [*UIST 2025*](https://uist.acm.org/2025/) (*Aug. 2, 2025*)!',
+    '- One paper accepted by [*TAICHI 2025*](https://taichi2025.taiwanchi.org) (*Jul. 17, 2025*)!',
     '- One paper accepted by [*SIGGRAPH 2024*](https://s2024.siggraph.org/) (*Apr 25, 2024*)!',
   ],
   avatar: 'avatar.png',
