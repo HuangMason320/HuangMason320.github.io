@@ -48,7 +48,7 @@ module.exports = {
   social: [
     {
       url: '/resume.pdf',
-      icon: ['ai', 'cv'],
+      icon: ['fab', 'file'],
     }, {
       url: 'https://github.com/HuangMason320',
       icon: ['fab', 'github'],
@@ -59,7 +59,7 @@ module.exports = {
     }, 
     {
       url: 'https://scholar.google.com/citations?user=oful4lkAAAAJ&',
-      icon: ['ai', 'google-scholar'],
+      icon: ['fab', 'google-scholar'],
     },
   ],
   education: [
