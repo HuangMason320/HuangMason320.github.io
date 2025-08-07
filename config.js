@@ -48,7 +48,7 @@ module.exports = {
   social: [
     {
       url: '/resume.pdf',
-      icon: ['fab', 'file'],
+      icon: ['fa', 'file'],
     }, {
       url: 'https://github.com/HuangMason320',
       icon: ['fab', 'github'],
@@ -95,7 +95,7 @@ module.exports = {
       title: 'Open Source Community',
     },
     {
-      icon: ['fab', 'music'],
+      icon: ['fa', 'music'],
       title: 'Music',
     },
   ],
