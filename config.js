@@ -59,7 +59,7 @@ module.exports = {
     }, 
     {
       url: 'https://scholar.google.com/citations?user=oful4lkAAAAJ&',
-      icon: ['fab', 'google-scholar'],
+      icon: ['ai', 'google-scholar'],
     },
   ],
   education: [
@@ -83,16 +83,22 @@ module.exports = {
     }],
   interests: [
     {
-      icon: 'cubes',
-      title: 'Distributed Systems',
-    }, {
+      icon: 'palette',
+      title: 'Digital Arts & Interactive Systems',
+    },
+    {
       icon: 'layer-group',
       title: 'Full Stack Development',
     }, {
       icon: ['fab', 'linux'],
       // icon: 'linux',
       title: 'Open Source Community',
-    }],
+    },
+    {
+      icon: ['fab', 'music'],
+      title: 'Music',
+    },
+  ],
   experience: [
     {
       title: 'Industry Experience',
