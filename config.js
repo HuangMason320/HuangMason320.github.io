@@ -122,6 +122,12 @@ module.exports = {
           location: 'National Tsing Hua University',
           description: '**11320CS241002 Software Studio**',
         },
+        {
+          title: 'Teaching Assistant',
+          date: 'Jan. 2025 - Jun. 2025',
+          location: 'National Tsing Hua University, & National Taiwan University',
+          description: '**AIA 500300 Computer Vision Practice with Deep Learning**',
+        },
       ],
     },
     {
