@@ -33,7 +33,7 @@ module.exports = {
   tocMaxDepth: 2,
   excerptMaxLength: 500,
   location: 'Taiwan',
-  email: 'masonnnhuang@pm.me',
+  email: 'masonnnhuang@gmail.com',
   postsForArchivePage: 3,
   disqusScript: process.env.DISQUS_SCRIPT
     || 'https://tc-imba.disqus.com/embed.js',
